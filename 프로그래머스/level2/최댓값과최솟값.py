@@ -7,3 +7,4 @@ def solution(s):
 
 
 if __name__ == '__main__':
+    print(solution("1 2 3 4"))
